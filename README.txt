@@ -9,4 +9,3 @@ The aim of this project is for us to get familar with the training process and c
 
 3. The Untitled0.ipynb file is where I used to train my baseline and modified model in part3.
 
-![image](https://github.com/henry0408/screenshots/blob/f721705c3cbf30c47d7a6a456a644b1fdd436ab2/img12.png)
