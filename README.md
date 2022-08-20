@@ -1,5 +1,4 @@
 Hi, this is the first project for ELEC5307.
-Hangyu Chen (490075948)
 
 The aim of this project is for us to get familar with the training process and choosing optimal hyperparameters in CNN. The dataset we used is cifar10.
 
